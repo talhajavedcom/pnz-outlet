@@ -15,7 +15,7 @@ Pnz Outlet is a Full Stack MERN (MongoDB, Express.js, React.js, Node.js) E-Comme
 
 ### Video
 
-[![WhatsApp Image 2023-12-08 at 21:03:19](https://github.com/talhajavedcom/Pnz-Outlet-Pny/assets/50840798/03d2a738-1b93-4c2a-9f26-722b80a635d5)](https://youtu.be/CN1LwaGp1lw?si=PxeulQr1Jg-b3ZCS)
+[![Click To Watch Video](https://github.com/talhajavedcom/Pnz-Outlet-Pny/assets/50840798/03d2a738-1b93-4c2a-9f26-722b80a635d5)](https://youtu.be/CN1LwaGp1lw?si=PxeulQr1Jg-b3ZCS)
 ### Features
 
 - **User Authentication:** Secure user authentication using JWT (JSON Web Tokens).
